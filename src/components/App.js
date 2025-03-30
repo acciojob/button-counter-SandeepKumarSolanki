@@ -12,6 +12,7 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
         <p>Button clicked {counter} times</p>
+        
         <button onClick={handleClick}>Click me</button>
         
     </div>
